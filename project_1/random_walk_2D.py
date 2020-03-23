@@ -9,6 +9,8 @@ def x_and_y_values(t, track_list_x, track_list_y):
     :param track_list_y: y values track list
     :return: the x values track list and the y values track list
     """
+    track_list_x.append(0)
+    track_list_y.append(0)
     for i in range(0, t):
         e1 = random.choice([1, -1])
         e2 = random.choice([1, -1])
@@ -28,7 +30,7 @@ def x_and_y_values(t, track_list_x, track_list_y):
 
 
 time = 500
-x, y = x_and_y_values(time, [0], [0])
+x, y = x_and_y_values(time, [], [])
 
 plt.plot(x, y)
 
