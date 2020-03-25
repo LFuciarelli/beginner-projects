@@ -16,7 +16,7 @@ Sources:
 
 This [video](https://www.youtube.com/watch?v=stgYW6M5o4k) from the channel PBS Infinite Series explains what a random walk is.
 
-I used this [article](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-randomness/a/random-walks) from Khan Academy to get inspiration to create my 2D random walk graphic
+I used this [article](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-randomness/a/random-walks) from Khan Academy to get inspiration for my 2D random walk graphic
 
 In addition, I found this [explanation](https://www.mit.edu/~kardar/teaching/projects/chemotaxis(AndreaSchmidt)/more_random.htm) from MIT on how bacteria use random walk to move.
 ### 2. Logistic difference equation
