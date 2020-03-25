@@ -13,6 +13,7 @@ A YouTube channel called [Python Programmer](https://www.youtube.com/user/consum
 Plot a random walk using the equation `y(t) = y(t - 1) + e` (where “e” is a random number) and the library Matplotlib firstly in one dimension, and then in two dimensions or multiple random walks on the same axis.
 
 **1D Random Walk**
+
 ![](images/multiple random walks.png)
 
 **Sources:**
