@@ -1,3 +1,4 @@
+[![](https://img.shields.io/github/license/LFuciarelli/beginner-projects)](https://github.com/LFuciarelli/beginner-projects/blob/master/LICENSE.md)
 # Beginner Projects
 5 Beginner Python Projects
 ## Table of contents
@@ -36,3 +37,4 @@ In addition, I found this [explanation](https://www.mit.edu/~kardar/teaching/pro
 ### 4. Blackjack
 ### 5. Playing card object
 ## License
+This project is licensed under the MIT License - open the [License.md](https://github.com/LFuciarelli/beginner-projects/blob/master/LICENSE.md) file for more details.
