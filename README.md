@@ -18,7 +18,11 @@ Plot a random walk using the equation `y(t) = y(t - 1) + e` (where “e” is a 
 
 **2D Random Walk**
 
+![](images/2D_random_walk.png)
+
 **Multiple Random Waks**
+
+![](images/multiple_random_walks.png)
 
 **Sources:**
 
