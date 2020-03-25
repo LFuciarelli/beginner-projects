@@ -37,4 +37,4 @@ In addition, I found this [explanation](https://www.mit.edu/~kardar/teaching/pro
 ### 4. Blackjack
 ### 5. Playing card object
 ## License
-This project is licensed under the MIT License - open the [License.md](https://github.com/LFuciarelli/beginner-projects/blob/master/LICENSE.md) file for more details.
+This project is licensed under the MIT License - open the [LICENSE.md](https://github.com/LFuciarelli/beginner-projects/blob/master/LICENSE.md) file for more details.
