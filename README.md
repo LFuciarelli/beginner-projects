@@ -10,8 +10,10 @@ A YouTube channel called [Python Programmer](https://www.youtube.com/user/consum
 `Disclaimer:` These projects are meant to be challenging but not impossible to someone who has been studying Python for some time, so I genuinely recommend you to try to solve them by yourself before looking at the solutions.
 ## Projects
 ### 1. Binary walk
-Plot a random walk using the equation `“y(t) = y(t - 1) + e”` (where “e” is a random number) and the library Matplotlib firstly in one dimension, and then in two dimensions or multiple random walks on the same axis.
+Plot a random walk using the equation `y(t) = y(t - 1) + e` (where “e” is a random number) and the library Matplotlib firstly in one dimension, and then in two dimensions or multiple random walks on the same axis.
+
 Sources:
+
 This [video](https://www.youtube.com/watch?v=stgYW6M5o4k) from the channel PBS Infinite Series explains what a random walk is.
 
 I used this [article](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-randomness/a/random-walks) from Khan Academy to get inspiration to create my 2D random walk graphic
