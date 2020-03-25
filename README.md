@@ -12,11 +12,11 @@ A YouTube channel called [Python Programmer](https://www.youtube.com/user/consum
 ### 1. Binary walk
 Plot a random walk using the equation `y(t) = y(t - 1) + e` (where “e” is a random number) and the library Matplotlib firstly in one dimension, and then in two dimensions or multiple random walks on the same axis.
 
-Sources:
+**Sources:**
 
 This [video](https://www.youtube.com/watch?v=stgYW6M5o4k) from the channel PBS Infinite Series explains what a random walk is.
 
-I used this [article](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-randomness/a/random-walks) from Khan Academy to get inspiration for my 2D random walk graphic
+I used this [article](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-randomness/a/random-walks) from Khan Academy to get inspiration for my 2D random walk graphic.
 
 In addition, I found this [explanation](https://www.mit.edu/~kardar/teaching/projects/chemotaxis(AndreaSchmidt)/more_random.htm) from MIT on how bacteria use random walk to move.
 ### 2. Logistic difference equation
