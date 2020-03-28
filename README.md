@@ -33,6 +33,8 @@ I used this [article](https://www.khanacademy.org/computing/computer-programming
 
 In addition, I found this [explanation](https://www.mit.edu/~kardar/teaching/projects/chemotaxis(AndreaSchmidt)/more_random.htm) from MIT on how bacteria use random walk to move.
 ### 2. Logistic difference equation
+Plot the logistic difference equation `xn+1 = rxn(1-xn)` (where "r" is the growth rate and "x" is percentage of the maximum) using the library Matplotlib.
+
 **Logistic difference equation**
 
 ![](images/logistic_difference_equation.png)
@@ -40,6 +42,10 @@ In addition, I found this [explanation](https://www.mit.edu/~kardar/teaching/pro
 **Bifurcation diagram**
 
 ![](images/bifurcation_diagram.png)
+
+**Sources:**
+
+This is the [Veritassium video](https://www.youtube.com/watch?v=ovJcsL7vyrk) Giles from Python Programmer referred to.
 
 ### 3. Calculator
 ### 4. Blackjack
