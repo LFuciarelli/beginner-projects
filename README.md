@@ -33,7 +33,7 @@ I used this [article](https://www.khanacademy.org/computing/computer-programming
 
 In addition, I found this [explanation](https://www.mit.edu/~kardar/teaching/projects/chemotaxis(AndreaSchmidt)/more_random.htm) from MIT on how bacteria use random walk to move.
 ### 2. Logistic difference equation
-Plot the logistic difference equation `xn+1 = rxn(1-xn)` (where "r" is the growth rate and "x" is percentage of the maximum) using the library Matplotlib.
+Plot the logistic difference equation `xn+1 = r* xn * (1 - xn)` (where "r" is the growth rate and "x" is percentage of the maximum) using the library Matplotlib.
 
 **Logistic difference equation**
 
