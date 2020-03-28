@@ -4,6 +4,7 @@
 ## Table of contents
 * [Introduction](#introduction)
 * [Projects](#projects)
+* [1. Binary walk](#1.-binary-walk)
 * [License](#license)
 ## Introduction
 A YouTube channel called [Python Programmer](https://www.youtube.com/user/consumerchampion) made a [video](https://www.youtube.com/watch?v=SrSl6T1My00) suggesting five projects beginners in Python can do. Since I have to stay at home right now because of the spread of COVID-19 disease in my country, I decided to spend my free time doing these projects and sharing them on my GitHub account.
