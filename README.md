@@ -50,5 +50,11 @@ This is the [Veritassium video](https://www.youtube.com/watch?v=ovJcsL7vyrk) Gil
 ### 3. Calculator
 ### 4. Blackjack
 ### 5. Playing card object
+Write a class that will create a playing card object.
+
+**Sources:**
+
+If you want more details on how to write a program to simulate a playing card, the [chapter 18](http://greenteapress.com/thinkpython/html/thinkpython019.html) of the book Think Python covers this topic.
+
 ## License
 This project is licensed under the MIT License - open the [LICENSE.md](https://github.com/LFuciarelli/beginner-projects/blob/master/LICENSE.md) file for more details.
