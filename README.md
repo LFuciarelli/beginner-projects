@@ -35,7 +35,11 @@ In addition, I found this [explanation](https://www.mit.edu/~kardar/teaching/pro
 ### 2. Logistic difference equation
 **Logistic difference equation**
 
+![](images/logistic_difference_equation.png)
+
 **Bifurcation diagram**
+
+![](images/bifurcation_diagram.png)
 
 ### 3. Calculator
 ### 4. Blackjack
