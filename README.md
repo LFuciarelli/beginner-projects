@@ -33,6 +33,10 @@ I used this [article](https://www.khanacademy.org/computing/computer-programming
 
 In addition, I found this [explanation](https://www.mit.edu/~kardar/teaching/projects/chemotaxis(AndreaSchmidt)/more_random.htm) from MIT on how bacteria use random walk to move.
 ### 2. Logistic difference equation
+**Logistic difference equation**
+
+**Bifurcation diagram**
+
 ### 3. Calculator
 ### 4. Blackjack
 ### 5. Playing card object
