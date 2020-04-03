@@ -1,6 +1,6 @@
 [![](https://img.shields.io/github/license/LFuciarelli/beginner-projects)](https://github.com/LFuciarelli/beginner-projects/blob/master/LICENSE.md)
 # Beginner Projects
-5 Beginner Python Projects
+5 Beginner Python Projects.
 ## Table of contents
 * [Introduction](#introduction)
 * [Projects](#projects)
