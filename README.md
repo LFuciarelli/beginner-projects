@@ -51,6 +51,10 @@ This is the [Veritassium video](https://www.youtube.com/watch?v=ovJcsL7vyrk) Gil
 
 Build a calculator. Begin with a text calculator that should prompt the user for input and then give them options. The system should ask whether they want to carry on doing that or to exit. Then move on by doing it graphically with Tkinter.
 
+**GUI Calculator**
+
+![](images/calculator.png)
+
 **Sources:**
 
 This [tutorial](https://www.datacamp.com/community/tutorials/gui-tkinter-python) from DataCamp explains how to use Tkinter and shows another way to build a GUI calculator as well.
