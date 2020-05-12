@@ -60,6 +60,14 @@ Build a calculator. Begin with a text calculator that should prompt the user for
 This [tutorial](https://www.datacamp.com/community/tutorials/gui-tkinter-python) from DataCamp explains how to use Tkinter and shows another way to build a GUI calculator as well.
 
 ### 4. Blackjack
+Write a program that gets as closer as you can to a proper simulation of the game of blackjack.
+
+I used my Playing card object from project number 5 to write this code.
+
+**Sources:**
+
+This [video](https://www.youtube.com/watch?v=eyoh-Ku9TCI) from wikiHow and this [tutorial](https://bicyclecards.com/how-to-play/blackjack/) from Bicycle Playing Cards official website explain how to play blackjack.
+
 ### 5. Playing card object
 Write a class that will create a playing card object.
 
